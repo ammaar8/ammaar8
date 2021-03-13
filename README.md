@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ammaar Solkar
 - I’m interested in Robotics, Design, Running productivity experiments and a lot of other stuff. 
-- I built chrono-dash.herokuapp.com to track and visualize time for analysis for a hobby project.
+- I built http://chrono-dash.herokuapp.com to track and visualize time for analysis for a hobby project.
 - I’m currently learning ROS, ROS2, C++.
 - I’m looking to collaborate on Robotics and other fun topics.
 - Here's how to reach me -
