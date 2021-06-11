@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ammaar Solkar
-- I’m interested in Robotics, Design, Data Viualization, Web Dev, UI/UX, Journaling, Running Productivity Experiments and a lot more!
+- I’m interested in Robotics, Design, Data Visualization, Web Dev, UI/UX, Journaling, Running Productivity Experiments and a lot more!
 - Here's how you can reach me:
   - LinkedIn - ammaar-solkar
   - Instagram - cuznosun
