@@ -13,7 +13,7 @@ and a lot more!
 ---
 ### Connect with me:
 
-- [LinkedIn  | ammaar-solakr][linkedin]
+- [LinkedIn  | ammaar-solkar][linkedin]
 - [Instagram | cuznosun][instagram]
 - [YouTube   | Ammaar Solkar][youtube]
 
