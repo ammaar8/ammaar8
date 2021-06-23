@@ -3,11 +3,9 @@
 
 I'm interested in -
 - :robot: Robotics
-- :chart_with_upwards_trend: Data Visualization
-- :notebook_with_decorative_cover: Journaling
+- :chocolate_bar: Data Visualization
+- :books: Journaling
 - :hammer: Leather and Wood working
-- :triangular_ruler: Design
-- :computer: Web Dev
 - :hourglass: Running Productivity Experiments
 
 and a lot more!
