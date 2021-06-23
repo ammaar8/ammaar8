@@ -1,5 +1,5 @@
 ### Hi, I’m Ammaar Solkar 👋
-## I'm a Developer, Robotisict and a Mechanical Engineer!
+## I'm a Developer, Roboticist and a Mechanical Engineer!
 
 I'm interested in -
 - :robot: Robotics
