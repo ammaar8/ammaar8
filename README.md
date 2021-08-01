@@ -20,11 +20,11 @@ and a lot more!
 ---
 ### :tv: Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Delivery Robot for Residential Buildings | RRS 2021](https://www.youtube.com/watch?v=x3EsvzKLpjA)
 - [Visualizing Ball Trajectories using Matplotlib](https://www.youtube.com/watch?v=Ac4HpQ0pLb8)
 - [Temperature Monitor App using Dash for python](https://www.youtube.com/watch?v=yWvnplurRp4)
 - [DeliveryBot Demo Video | ROS](https://www.youtube.com/watch?v=9i83VW3t_Xk)
 - [Delivery Testing | DeliveryBot | 1 April 2021](https://www.youtube.com/watch?v=Ed1IPLX5QtA)
-- [DeliveryTesting | DeliveryBot | 30 March 2021](https://www.youtube.com/watch?v=TIwQ3KT5G8Q)
 <!-- YOUTUBE:END -->
 
 ---
