@@ -20,11 +20,11 @@ and a lot more!
 ---
 ### :tv: Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Update on token system using rpi and esp32s!](https://www.youtube.com/watch?v=JMMCOfWcrQg)
+- [Demo video for working of Counter in conjunction with Token Station for token system | 28 Aug 2021](https://www.youtube.com/watch?v=SJ2Z1YawXvw)
+- [Fetching Data to ESP8266 from local Flask Server | Aug 18 2021](https://www.youtube.com/watch?v=6g5I-UufpDk)
 - [DataTable Filtering Using Mapbox Scatter Map](https://www.youtube.com/watch?v=WASIJDCHdcM)
 - [Delivery Robot for Residential Buildings | RRS 2021](https://www.youtube.com/watch?v=x3EsvzKLpjA)
-- [Visualizing Ball Trajectories using Matplotlib](https://www.youtube.com/watch?v=Ac4HpQ0pLb8)
-- [Temperature Monitor App using Dash for python](https://www.youtube.com/watch?v=yWvnplurRp4)
-- [DeliveryBot Demo Video | ROS](https://www.youtube.com/watch?v=9i83VW3t_Xk)
 <!-- YOUTUBE:END -->
 
 ---
