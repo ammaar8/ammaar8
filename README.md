@@ -20,11 +20,11 @@ and a lot more!
 ---
 ### :tv: Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Added the download report functionality to the token system! | 5 Sep 2021](https://www.youtube.com/watch?v=e4bdf5_ChoQ)
 - [Token System full system demo | 4 Sep 2021](https://www.youtube.com/watch?v=cxDRWLtAMz0)
 - [Autostarting flask server and chromium on rpi for the token station! | 4 Sep 2021](https://www.youtube.com/watch?v=WKlQItN1NMo)
 - [Token System - Announcer on client with Web Speech API | 31 Aug 2021](https://www.youtube.com/watch?v=8WDETs4hGIg)
 - [Token System update with thermal printer and running on rpi | Aug 29 2021](https://www.youtube.com/watch?v=hwOpsqEukvc)
-- [Update on token system using rpi and esp32s!](https://www.youtube.com/watch?v=JMMCOfWcrQg)
 <!-- YOUTUBE:END -->
 
 ---
